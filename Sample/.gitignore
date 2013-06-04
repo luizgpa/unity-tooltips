@@ -1,6 +1,7 @@
-Library/
-Temp/
-obj/
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+
 *.sln
 *.csproj
 *.suo
